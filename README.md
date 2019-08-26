@@ -1,0 +1,1 @@
+# minikube_in_centos
