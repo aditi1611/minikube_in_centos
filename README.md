@@ -20,3 +20,7 @@ to check --
 
 $ kubectl get pods -n kube-system
 -- you will get pods and all should be running!!!
+
+Lets test this via runnina a basic application of nginx
+
+$ kubectl run --image=nginx
